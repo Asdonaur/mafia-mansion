@@ -1,0 +1,29 @@
+spr 0 1
+spr 1 1
+mov 0 0
+txt 1 Let me go!
+snd 0
+ani 0 aniNPCReact
+spr 0 2
+wai 0.1
+spr 0 0
+wai 0.2
+mov 2 1
+fli 0
+txt 2 Don't worry. You'll be fine with us.
+fli 1
+txt 1 Please!
+spr 1 5
+txt 1 I want to see my uncle again!
+spr 1 1
+txt 2 Silence! You are calling attention!
+fli 1
+spr 1 5
+txt 1 No!! Let me go!!!
+mov 2 3
+spr 0 4
+ani 0 aniNPCReact
+wai 1.5
+spr 0 0
+mov 0 2
+rom level1

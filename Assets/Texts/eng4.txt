@@ -1,0 +1,54 @@
+ani 0 aniNPCBreath
+spr 0 8
+fli 1
+wai 3
+txt 1 Thank you, sir...
+spr 0 0
+ani 0 aniNPCReact
+wai 0.4
+ani 0 aniNPCReact
+wai 0.5
+txt 1 Alexander Guyy?
+txt 1 What a... Interesting name.
+txt 1 Anyways, why you were in the mansion in first place?
+ani 0 aniNPCReact
+wai 0.4
+ani 0 aniNPCReact
+wai 0.5
+txt 1 You thinked I was kidnapped?
+spr 1 2
+txt 1 Well, that's not so far from the truth...
+txt 1 I felt alone in that house...
+spr 1 3
+spr 0 9
+txt 1 But... We managed to get out!
+txt 1 Thanks to you, Mr. Guyy!
+spr 0 0
+spr 1 0
+txt 1 Do you mind if I call you Alex instead of Mr. Guyy?
+txt 1 Uncle Tom always told me to never talk to strangers...
+spr 1 3
+txt 1 But I think you are trustworthy.
+wai 0.5
+snd 0
+ani 1 aniNPCReact
+spr 1 4
+wai 1
+txt 1 I almost forgot!
+txt 1 I have to see what happened to uncle Tom!
+spr 1 0
+txt 1 Alex, let's go!
+mov 1 0
+spr 0 4
+txt 0 (I... Don't know why, but...)
+txt 0 (I don't feel okay by doing this...)
+txt 1 Alex! What are you waiting for?
+snd 0
+spr 0 2
+ani 0 aniNPCReact
+wai 1
+spr 0 0
+mov 0 0
+end 1
+wai 0.1
+rom endingAnim

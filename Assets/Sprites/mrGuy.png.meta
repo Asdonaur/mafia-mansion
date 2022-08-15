@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 6de15adee176acf4b95168ab4559a69d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: mrGuy_0
+  - first:
+      213: 21300002
+    second: mrGuy_1
+  - first:
+      213: 21300004
+    second: mrGuy_2
+  - first:
+      213: 21300006
+    second: mrGuy_3
+  - first:
+      213: -1334093440191656693
+    second: mrGuy_4
+  - first:
+      213: 5420033602406109080
+    second: mrGuy_0
+  - first:
+      213: 6236060749338314807
+    second: mrGuy_1
+  - first:
+      213: -8331675435953850511
+    second: mrGuy_2
+  - first:
+      213: 987782690154151708
+    second: mrGuy_3
+  - first:
+      213: -3684236007986905575
+    second: mrGuy_5
+  - first:
+      213: 2777895860015380761
+    second: mrGuy_6
+  - first:
+      213: -5730632873736829491
+    second: mrGuy_7
+  - first:
+      213: 7983069463215098242
+    second: mrGuy_8
+  - first:
+      213: 6338184069028879125
+    second: mrGuy_9
+  - first:
+      213: -865216112648161128
+    second: mrGuy_4
+  - first:
+      213: 1523323349315132133
+    second: mrGuy_5
+  - first:
+      213: 6372268375244160329
+    second: mrGuy_6
+  - first:
+      213: 6839426413596952625
+    second: mrGuy_7
+  - first:
+      213: -3111478432733173924
+    second: mrGuy_8
+  - first:
+      213: 2240557151724144644
+    second: mrGuy_9
+  - first:
+      213: -3381094300038079035
+    second: mrGuy_10
+  - first:
+      213: -1198384635114920055
+    second: mrGuy_10
+  - first:
+      213: -3061168404447169089
+    second: mrGuy_11
+  - first:
+      213: 8404466228110616703
+    second: mrGuy_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.50000006, y: -0.0008030342}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mrGuy_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 874
+        width: 273
+        height: 643
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fc81648d3d73b40800000000000000
+      internalID: 5420033602406109080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrGuy_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 874
+        width: 272
+        height: 662
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73801122630fa8650800000000000000
+      internalID: 6236060749338314807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrGuy_2
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 861
+        width: 273
+        height: 681
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1777f188551ff5c80800000000000000
+      internalID: -8331675435953850511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrGuy_3
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 859
+        width: 278
+        height: 591
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ffae98f1f45bd00800000000000000
+      internalID: 987782690154151708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrGuy_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 134
+        width: 273
+        height: 643
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89879a797822ef3f0800000000000000
+      internalID: -865216112648161128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrGuy_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 134
+        width: 272
+        height: 643
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea9cf9e38ee32510800000000000000
+      internalID: 1523323349315132133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrGuy_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 134
+        width: 271
+        height: 643
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d32e75358de6850800000000000000
+      internalID: 6372268375244160329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrGuy_7
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 134
+        width: 272
+        height: 643
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138ced916168aee50800000000000000
+      internalID: 6839426413596952625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrGuy_8
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 134
+        width: 272
+        height: 643
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5766aac9dec1d4d0800000000000000
+      internalID: -3111478432733173924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrGuy_9
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 134
+        width: 273
+        height: 643
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4088a77cbde081f10800000000000000
+      internalID: 2240557151724144644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrGuy_10
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 138
+        width: 419
+        height: 639
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98760bf068b7e5fe0800000000000000
+      internalID: -1198384635114920055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrGuy_11
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 134
+        width: 271
+        height: 624
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5f64f0e8b8485d0800000000000000
+      internalID: -3061168404447169089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mrGuy_12
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 134
+        width: 272
+        height: 643
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78ec457189a2a470800000000000000
+      internalID: 8404466228110616703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ac9a1e8afedd21e45b57c6e8bea233c4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

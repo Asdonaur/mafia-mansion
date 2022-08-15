@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 863b3314ca3abed4fb7c01c591cfc049
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sombraPref: {fileID: 7020865238935355589, guid: 3f8f01fd2615ea942b5bac8cc05d91ef,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

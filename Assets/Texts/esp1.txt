@@ -1,0 +1,66 @@
+mov 0 0
+spr 0 2
+wai 0.2
+mov c 1
+fli 2
+ani 2 aniNPCReact
+snd 0
+wai 1
+txt 2 ¿Quién es usted?
+spr 2 1
+txt 2 ¡¿Cómo pasaste sin que mis guardias de dieran cuenta?!
+txt 2 ¡Guardia!
+mov 3 2
+fli 0
+spr 0 4
+ani 0 aniNPCReact
+wai 0.5
+spr 0 2
+wai 0.1
+spr 0 4
+ani 0 aniNPCReact
+wai 0.5
+spr 0 2
+wai 0.5
+spr 2 2
+txt 2 Un momento...
+spr 2 0
+fli 0
+txt 2 ¿No es usted Alexander Guyy? ¿Ganador de la loteria del mes pasado?
+spr 0 0
+txt 2 ¿Qué hace usted aquí?
+ani 0 aniNPCReact
+wai 0.4
+ani 0 aniNPCReact
+wai 0.5
+txt 2 ¿Una niña secuestrada?
+txt 2 ¿Se refiere a mi hija Maggie?
+txt 2 De hecho, la salvé de su tío secuestrador.
+txt 2 Su coche chocó y pudimos salvarla a tiempo.
+ani 0 aniNPCReact
+wai 0.4
+ani 0 aniNPCReact
+wai 0.5
+txt 2 Viste a Maggie y decidiste venir...
+txt 2 ¿Usted sigue a todas las niñas que ve a sus casas?
+spr 2 1
+spr 0 3
+txt 2 ¡¿Qué tienes en la cabeza?!
+txt 2 ¡Debería darle vergüenza!
+txt 2 No creo que necesite que le recuerde quién soy.
+txt 2 No sólo tengo de mi lado a toda la mafia del país, sino tambien a buena parte de la policía.
+spr 0 2
+txt 2 Facilmente podría meterlo a la carcel por intento de secuestro.
+spr 2 2
+txt 2 Pero voy a ser amable con usted.
+spr 2 0
+spr 0 0
+txt 2 Voy a dejarle decidir.
+txt 2 Primero, puede terminar en la cárcel.
+txt 2 Su segunda opción es irse de aqui, no volver y nosotros olvidamos que esto pasó.
+txt 2 Entonces, ¿qué decides?
+spr 0 4
+mov c 3
+wai 0.5
+dec
+aaa aaaaaaa

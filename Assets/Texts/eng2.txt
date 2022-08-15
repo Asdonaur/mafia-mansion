@@ -1,0 +1,12 @@
+snd 0
+ani 0 aniNPCReact
+spr 0 2
+wai 0.1
+spr 0 0
+wai 0.2
+spr 0 3
+wai 1
+mov 0 4
+end 0
+wai 0.1
+rom endingAnim

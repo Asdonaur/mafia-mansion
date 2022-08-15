@@ -1,0 +1,104 @@
+snd 0
+ani 0 aniNPCReact
+spr 0 2
+wai 0.1
+spr 0 0
+wai 1
+mov c 1
+spr 0 4
+wai 0.25
+spr 0 5
+wai 0.25
+spr 0 4
+wai 0.25
+spr 0 5
+wai 0.25
+spr 0 1
+wai 0.2
+txt 0 Mr. Maff, I did not came here to "chase a random girl"
+txt 0 When I saw earlier your daughter and your guard, they were discusing.
+txt 0 The girl wanted to see her uncle.
+spr 0 4
+txt 0 So... I have a question...
+spr 0 6
+txt 0 Why a girl would care more for the kidnapper than his own father?
+wai 1
+spr 2 2
+txt 2 *sigh*
+spr 2 3
+txt 2 You are that kind of person, right?
+txt 2 I'm gonna make the decision easier...
+spr 2 4
+ani 2 aniNPCReact
+snd 1
+wai 0.1
+spr 2 5
+wai 0.4
+snd 0
+ani 0 aniNPCReact
+spr 0 2
+wai 0.5
+txt 2 Go away from this mansion, or go away from this world.
+txt 0 A-Answer my question!
+txt 2 That's not from your business. Go away!
+wai 1
+txt 1 Dad, no!
+snd 0
+ani 0 aniNPCReact
+ani 2 aniNPCReact
+vel 1 2
+spr 1 5
+spr 2 6
+mov 1 5
+fli 1
+spr 1 1
+txt 2 Maggie! What are you doing here? Go to your room!
+txt 1 No!
+txt 1 I did not even grow up here, you liar!
+txt 1 You didn't even care about me like the father you are supposed to be!
+spr 0 0
+spr 2 1
+txt 2 Go to your room now or else...
+txt 1 Or else what?!
+txt 1 I... I don't consider YOU as my father!
+txt 1 You are a monster!
+spr 1 2
+txt 1 You just... blackmail and kill people for their money!
+txt 1 My uncle Tom doesn't do that!
+spr 0 3
+txt 1 His car crashed... And I don't know what happened!
+txt 2 He was a bad person!
+spr 1 1
+txt 1 No, YOU are a bad person!
+txt 1 Uncle Tom... I lived with him all my life!
+spr 1 7
+txt 1 And this person...
+spr 1 1
+txt 1 Why would you blame them for all of this?!
+txt 2 Maggie... Don't make me angry...
+snd 0
+ani 0 aniNPCReact
+spr 0 2
+wai 0.5
+txt 1 I don't care how angry you are!
+fli 0
+spr 0 7
+fli 3
+spr 3 1
+snd 2
+ani 3 aniNPCReact
+wai 0.4
+spr 0 6
+wai 0.4
+vel 0 2
+mov 0 6
+snd 0
+ani 1 aniNPCReact
+wai 0.1
+par 0 1
+spr 1 6
+mov 0 7
+fli 2
+txt 2 WHAT ARE YOU DOING?!
+txt 2 GUARDS!
+rom level4

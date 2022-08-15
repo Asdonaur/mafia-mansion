@@ -1,0 +1,66 @@
+mov 0 0
+spr 0 2
+wai 0.2
+mov c 1
+fli 2
+ani 2 aniNPCReact
+snd 0
+wai 1
+txt 2 Who are you?
+spr 2 1
+txt 2 How did you get past from my guards?!
+txt 2 Guards!
+mov 3 2
+fli 0
+spr 0 4
+ani 0 aniNPCReact
+wai 0.5
+spr 0 2
+wai 0.1
+spr 0 4
+ani 0 aniNPCReact
+wai 0.5
+spr 0 2
+wai 0.5
+spr 2 2
+txt 2 Wait a minute...
+spr 2 0
+fli 0
+txt 2 Are'nt you Alexander Guyy? Who won the lottery a month ago?
+spr 0 0
+txt 2 What is your business here?
+ani 0 aniNPCReact
+wai 0.4
+ani 0 aniNPCReact
+wai 0.5
+txt 2 A girl kidnapped here?
+txt 2 Are'nt you talking about my daughter Maggie?
+txt 2 Actually, I rescued her from her cruel uncle.
+txt 2 Luckly, his car crashed and we could rescue her in time.
+ani 0 aniNPCReact
+wai 0.4
+ani 0 aniNPCReact
+wai 0.5
+txt 2 So you saw Maggie and my guard and came here...
+txt 2 You follow all girls you see to their home?
+spr 2 1
+spr 0 3
+txt 2 What kind of man are you?!
+txt 2 Don't you feel ashamed of yourself?!
+txt 2 I think I don't need to remind you who am I.
+txt 2 I have not only all the mafia in this country to my side, but also the police.
+spr 0 2
+txt 2 I could so easly accuse you of trying to kidnap my daughter...
+spr 2 2
+txt 2 But... I'll be kind with you.
+spr 2 0
+spr 0 0
+txt 2 I will leave you to decide your destiny.
+txt 2 First, I can accuse you, and you go to jail.
+txt 2 Your second option is to leave, don't return, and we forget that this happened.
+txt 2 So... What is your option?
+spr 0 4
+mov c 3
+wai 0.5
+dec
+aaa aaaaaaa

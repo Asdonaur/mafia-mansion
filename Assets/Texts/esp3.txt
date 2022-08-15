@@ -1,0 +1,104 @@
+snd 0
+ani 0 aniNPCReact
+spr 0 2
+wai 0.1
+spr 0 0
+wai 1
+mov c 1
+spr 0 4
+wai 0.25
+spr 0 5
+wai 0.25
+spr 0 4
+wai 0.25
+spr 0 5
+wai 0.25
+spr 0 1
+wai 0.2
+txt 0 Señor. Maff, yo no vine aqui a "perseguir a una niña".
+txt 0 Vi a su hija y al guardia que la custodiaba discutiendo.
+txt 0 Esa niña QUERÍA volver a ver a su tío.
+spr 0 4
+txt 0 Así que, me preguntaba...
+spr 0 6
+txt 0 ¿Por qué se preocupaba más por el secuestrador que su padre?
+wai 1
+spr 2 2
+txt 2 *sigh*
+spr 2 3
+txt 2 Usted es ese tipo de persona, ¿verdad?
+txt 2 Voy a ponerle la decisión más fácil...
+spr 2 4
+ani 2 aniNPCReact
+snd 1
+wai 0.1
+spr 2 5
+wai 0.4
+snd 0
+ani 0 aniNPCReact
+spr 0 2
+wai 0.5
+txt 2 O se va de esta mansión, o se va de este mundo.
+txt 0 ¡R-Responda mi pregunta!
+txt 2 Eso no le importa. Váyase.
+wai 1
+txt 1 ¡Papá, no!
+snd 0
+ani 0 aniNPCReact
+ani 2 aniNPCReact
+vel 1 2
+spr 1 5
+spr 2 6
+mov 1 5
+fli 1
+spr 1 1
+txt 2 ¡Maggie! ¿Qué haces aquí? ¡Ve a tu cuarto!
+txt 1 ¡No!
+txt 1 ¡Yo no crecí en esta mansión, para empezar!
+txt 1 ¡Ni siquiera te importó donde estaba yo!
+spr 0 0
+spr 2 1
+txt 2 Ve a tu cuarto o si no...
+txt 1 ¡¿O si no qué?!
+txt 1 No... ¡No te considero como mi padre!
+txt 1 ¡Eres un monstruo!
+spr 1 2
+txt 1 ¡Tú... Tú sólo robas y asesinas a la gente!
+txt 1 ¡Y Mi tío Tom no hace esas cosas!
+spr 0 3
+txt 1 Su coche chocó... ¡Y no sé que pasó con él!
+txt 2 Maggie, ¡él era una mala influencia para tí!
+spr 1 1
+txt 1 No, ¡TÚ eres una mala influencia!
+txt 1 Mi tío Tom... Crecí con él toda mi vida...
+spr 1 7
+txt 1 Y este sujeto...
+spr 1 1
+txt 1 ¡¿Por qué los culparías de todo esto?!
+txt 2 Maggie... No me hagas enojar...
+snd 0
+ani 0 aniNPCReact
+spr 0 2
+wai 0.5
+txt 1 ¡No me importa si estás enojado!
+fli 0
+spr 0 7
+fli 3
+spr 3 1
+snd 2
+ani 3 aniNPCReact
+wai 0.4
+spr 0 6
+wai 0.4
+vel 0 2
+mov 0 6
+snd 0
+ani 1 aniNPCReact
+wai 0.1
+par 0 1
+spr 1 6
+mov 0 7
+fli 2
+txt 2 ¡¿QUÉ ESTÁ HACIENDO?!
+txt 2 ¡GUARDIAS!
+rom level4
