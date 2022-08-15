@@ -1,3 +1,0 @@
-txt 0 viva!
-txt 0 no me lo esperaba para nada :DDDD
-rom level1
